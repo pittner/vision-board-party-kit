@@ -331,6 +331,7 @@ footer{padding:28px 0 60px;font-size:14px;color:var(--muted);border-top:1px soli
   more: <a href="https://pittner.github.io/2027-vision-board-template/">printable 2027 vision board template</a>,
   <a href="https://pittner.github.io/vision-board-templates/">all 7 printable vision board templates</a>,
   <a href="https://pittner.github.io/vision-board-prompts/">AI vision board prompts</a>,
+  <a href="https://pittner.github.io/vision-board-for-students/">vision board for students (classroom kit)</a>,
   <a href="https://pittner.github.io/">all free tools</a> &middot;
   <a href="https://github.com/pittner/vision-board-party-kit">source</a>
 </footer>
